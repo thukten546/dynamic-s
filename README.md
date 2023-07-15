@@ -1,0 +1,2 @@
+# dynamic-s
+learning showcase
